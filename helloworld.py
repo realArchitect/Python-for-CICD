@@ -1,2 +1,3 @@
-def hello_world(text):
-  print(text)
+def calc(a, b):
+    c = a + b
+    return c
