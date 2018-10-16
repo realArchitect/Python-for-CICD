@@ -1,3 +1,3 @@
-def calc(a, b):
-    c = a + b
+def lambda_handler(event, context):
+    c = event['a'] + event['b']
     return c
