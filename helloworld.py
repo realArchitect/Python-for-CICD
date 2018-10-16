@@ -1,1 +1,2 @@
-print("From Meow to the World!!!")
+def hello_world(text):
+  print(text)
